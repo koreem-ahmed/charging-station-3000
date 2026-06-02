@@ -1,7 +1,9 @@
 # charging-station-3000
 ## Description
 This is a customed charging station which combine both funcitionablity and customed design. I personally made this project for charging my controllers while holding them in a section of my disk i also made sure to put all the games i love int he design and make the design like a customed thing to hold memories while charging my head set. i was a beginner in the 3D world but i learned a lot from onshape toturials and also i made huge project like this.
+<hr>
 It is more like a functionable stand which charges the controller and head sets and also could hold my phone for me on my disk. I made a custom speakers with a PAM8403 Bluetooth Dual chip to help me connect my phone to the charging station and lestin to my favorate music. also i made a custome place for TFT Screen which displays a animated valorant agents or a parts of my favorate game. Also, i made every thing to be compatible with diffrent technieches rather than skewers also it gets its power from a plugin and a power supply which power it by 5V and 10amp.
+<hr>
 I made it cause i wanted to make a good stand and a chargin station for my controllers since i forget to charge them all the time as well as my head set and i needed something to fill my desk with and shows my love for a certain games i played and holds memory for this event (fallout). Also i didn't have speackers so i made a simple one and i want something to display animation on which was the TFT in this project.
 I will usually uses it for holding and charging the controllers and my head set. Also, i will use it as a speacker and a displaying screen.
 
@@ -13,8 +15,12 @@ I made the 3D desing using onshape which was like the first time from a year and
 <img width="310" alt="Screenshot 2026-06-02 040118" src="https://github.com/user-attachments/assets/8314fa5c-21cd-4a91-8663-4bc4dba21375" />
 <img width="310" alt="Screenshot 2026-06-02 040050" src="https://github.com/user-attachments/assets/18e51f6c-11d8-4299-9f35-3a564f7bbf41" />
 
-## PCB designing
+## PCB & Schematic designing
 I made a cutom PCB after searching for the components and knew that i need one for manigaing electricity and to soleder the Type-A modules in it.
 
 ### Schematic
+I made the connections of the sound system, TFT, ESP32, and the charging modules
 <img width="1065" height="460" alt="image" src="https://github.com/user-attachments/assets/65a8a536-f663-4dd0-85d3-5a3c87a46a89" />
+
+### PCB
+<img width="730" height="850" alt="image" src="https://github.com/user-attachments/assets/ca633f19-1f66-4ddb-97b6-a8aeb38e7bd3" />
