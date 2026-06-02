@@ -9,9 +9,9 @@ I will usually uses it for holding and charging the controllers and my head set.
 I made the 3D desing using onshape which was like the first time from a year and also the first time working on a hard project at least for me. I had reasearch amound many sources to know how to connect parts by using a circular locks or a simple X shape to put it in the part you want to stick the stand to.
 
 ### The whole design
-<img width="32%" alt="Screenshot 2026-06-02 040110" src="https://github.com/user-attachments/assets/df9604e4-820a-41c7-9eaf-e753b123264e" />
-<img width="32%" alt="Screenshot 2026-06-02 040118" src="https://github.com/user-attachments/assets/8314fa5c-21cd-4a91-8663-4bc4dba21375" />
-<img width="32%" alt="Screenshot 2026-06-02 040050" src="https://github.com/user-attachments/assets/18e51f6c-11d8-4299-9f35-3a564f7bbf41" />
+<img width="340" alt="Screenshot 2026-06-02 040110" src="https://github.com/user-attachments/assets/df9604e4-820a-41c7-9eaf-e753b123264e" />
+<img width="340" alt="Screenshot 2026-06-02 040118" src="https://github.com/user-attachments/assets/8314fa5c-21cd-4a91-8663-4bc4dba21375" />
+<img width="340" alt="Screenshot 2026-06-02 040050" src="https://github.com/user-attachments/assets/18e51f6c-11d8-4299-9f35-3a564f7bbf41" />
 
 ## PCB designing
 I made a cutom PCB after searching for the components and knew that i need one for manigaing electricity and to soleder the Type-A modules in it.
