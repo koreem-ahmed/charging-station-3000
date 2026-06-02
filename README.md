@@ -24,4 +24,4 @@ I made the connections of the sound system, TFT, ESP32, and the charging modules
 <img width="1065" height="460" alt="image" src="https://github.com/user-attachments/assets/65a8a536-f663-4dd0-85d3-5a3c87a46a89" />
 
 ### PCB
-<img margin-left="30%" width="730" height="850" alt="image" src="https://github.com/user-attachments/assets/ca633f19-1f66-4ddb-97b6-a8aeb38e7bd3" />
+<img width="730" height="850" alt="image" src="https://github.com/user-attachments/assets/ca633f19-1f66-4ddb-97b6-a8aeb38e7bd3" />
