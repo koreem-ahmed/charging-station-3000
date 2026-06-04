@@ -25,3 +25,6 @@ I made the connections of the sound system, TFT, ESP32, and the charging modules
 
 ### PCB
 <img width="730" height="850" alt="image" src="https://github.com/user-attachments/assets/ca633f19-1f66-4ddb-97b6-a8aeb38e7bd3" />
+
+## Poster
+<img width="545" height="835" alt="Charging station 3000" src="https://github.com/user-attachments/assets/1726184e-55d8-4ada-b834-68e8f75cd25a" />
