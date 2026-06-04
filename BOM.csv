@@ -1,22 +1,21 @@
-"Item","The Price","The Quantaty ","Place to buy","link","","","","",""
-"power supply 10 A 5 V","7.79","1","amazon eg","=HYPERLINK(""https://www.amazon.eg/Generic-Power-Supply-5V-10A/dp/B0DR631M7H/ref=sr_1_1_sspa?crid=7DO8L4O0LDYW&dib=eyJ2IjoiMSJ9.iTnD5ol3oZUmWB39yHEbC08aqgwPNE1YYwoqzPHtljJ6BUF7nrFv_LU6_mszmK2N9duo0ojKAQcXBUNwLAnRkTzzV5a2ytQSgM-uAhznON0KnwWdBlN3DTsau4W-QnA2eH90U8gUUhyjEEVhUjkZFG-Ij_IFPa8LcfC6G4Dzd_sbTw-NM3q77lHeZQuqcFdemgLnfOjmc6-Jh3xRaQW238RDEONY_ckMvsBn7NUmN2yXAl9g-CgdBdG1qlVFDpbj-nc8bihByToWl92U_pqw_AodHi3Pt9KAwxvq5TEsU8Y.kkznKwH2TYCuawps34RJEdcutamhcD95eeXDXfycTpE&dib_tag=se&keywords=power+supply+5v+10+amp&qid=1780364337&sprefix=power+supply+5v+10+amp%2Caps%2C177&sr=8-1-spons&aref=4hOR0TEhn6&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"
-",""Link"")","","","","",""
-"10A fuse","0.02","1","ram electronics","https://www.ram-e-shop.com/ar/shop/fuse-l-10a-fywz-zjjy-twyl-10a-mbyr-250v-fwlt-mqs-t6x30-mlm-6249?srsltid=AfmBOopqdtStqaI8u35624m39nnnTJNznirEpmP5SFXQh-itD3KKGwzS","","","","",""
-"P-channel MOSFET","0.38","1","ram electronics","https://www.ram-e-shop.com/ar/shop/irf9540-irf9540n-p-channel-mosfet-5971?srsltid=AfmBOopWcfaS8jnYi5xT6W62YnORZpmb2-VJqg5o1bXhbBDKWyHOE4rb","","","","",""
-"TFT LCD Display Module SPI ","7.11","1","ram electronics","https://www.ram-e-shop.com/ar/shop/kit-lcd-tft-2-8-touch-lcd-tft-2-8-inch-touch-display-for-arduino-uno-mega2560-8003","","","","",""
-"220 ohm resistor","0.01","1","ram electronics","https://mostelectronic.com/shop/components/resistor-220-ohm/","","","","",""
-"1000 uf capacitor","0.09","1","ram electronics","https://mostelectronic.com/shop/components/capacitors/radial-electrolytic-capacitors/electrolytic-capacitor-1000uf-16v/","","","","",""
-"0.1 uf capacitor","0.09","1","ram electronics","https://mostelectronic.com/shop/components/electrolytic-capacitor-0-1uf-50v/","","","","",""
-"PAM8403 Bluetooth Dual","2.79","1","ram electronics","https://www.ram-e-shop.com/ar/shop/kit-amp-a158-2pam8403-5w-xh-a158-pam8403-bluetooth-dual-mini-5v-digital-audio-amplifier-board-2x5w-9239?category=3","","","","",""
-"speakers glue","11.74","1","amazon eg","https://www.amazon.com/speaker-adhesive/s?k=speaker+adhesive","","","","",""
-"4 ohm, 3 watt Speakers","2.08","2","amazon eg","https://www.amazon.eg/-/en/%D8%B3%D9%85%D8%A7%D8%B9%D8%A9-%D9%85%D9%83%D8%A8%D8%B1-%D9%85%D8%AA%D8%B9%D8%AF%D8%AF-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%D8%A7%D8%AA-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA/dp/B0FY4R1Z35/ref=asc_df_B0FY4R1Z35?mcid=04fb5e17f5533132805a89905f3e2b2a&tag=egoshpadde-21&linkCode=df0&hvadid=725165253016&hvpos=&hvnetw=g&hvrand=10749037855632615998&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9073655&hvtargid=pla-2467849513841&psc=1&language=en_AE&gad_source=1","","","","",""
-"poly fuse","0.07","3","makerelectronics","https://makerselectronics.com/product/rxef110-ptc-fuse-72v-1-1a/","","","","",""
-"USB A breakout module package","5.96","1","amazon eg","https://www.amazon.com/DAOKAI-Female-Adapter-Converter-Breakout/dp/B09WQHPXH6/ref=sxin_17_pa_sp_search_thematic_sspa?content-id=amzn1.sym.6f93dabc-97b6-439f-8c1f-f7c2d7b1c674%3Aamzn1.sym.6f93dabc-97b6-439f-8c1f-f7c2d7b1c674&cv_ct_cx=usb%2Bbreakout%2Bboard&keywords=usb%2Bbreakout%2Bboard&pd_rd_i=B09WQHPXH6&pd_rd_r=db0133ef-6186-4ac8-bddd-7ddc0842db50&pd_rd_w=ETQK5&pd_rd_wg=kK3dd&pf_rd_p=6f93dabc-97b6-439f-8c1f-f7c2d7b1c674&pf_rd_r=E36ZEY3NCBD9HV4GMPSE&qid=1780511396&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-1-6024b2a3-78e4-4fed-8fed-e1613be3bcce-spons&aref=yOVCSt4u3H&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1","","","","",""
-"1N5819 diode","0.2","1","ram electronics","https://store.fut-electronics.com/products/shcottcky-diode-1n5819?srsltid=AfmBOorTiGTyXmm6pqXjamachXugBTepMAudOx9gBjb-lfvj4FBM_QEM","","","","",""
-"ESP 32 - 38 pins","6.73","1","ram electronics","https://www.ram-e-shop.com/ar/shop/kit-esp32-esp32s-38pin-esp-32s-38pin-development-board-wifi-bluetooth-with-new-cp2102-chip-9279?srsltid=AfmBOorkWV3e5c4N0s2eVIavfbuDjGAVGXFD1Jgd7jaLxsNo6NSG4d5F","","","","",""
-"LED","0.2","1","ram electronics","","","","","",""
-"20 awg copper wire","1.9","1 meter","locally","","","","","",""
-"plug in wire","2.3","","locally","","","","","",""
-"jumpers","0.77","","ram electronics","https://www.ram-e-shop.com/ar/shop/ph60-mf-20cm-ph60-20cm-male-to-female-40-jumper-wires-set-7066?srsltid=AfmBOooV21UIQ0Qq-grlBvJDuOiH3kgcR8U7oylQtoW-v37-jI2_qxel","","","","",""
-"PCB Faprication","5","","JLCPCB","","","","","",""
-"3D design","","","","","","","","",""
+Item,Price,Quantity,Place to buy,Link
+Power supply 5V 10A,7.79,1,Amazon Egypt,https://www.amazon.eg/dp/B0DR631M7H
+10A fuse,0.02,1,RAM Electronics,https://www.ram-e-shop.com/ar/shop/fuse-l-10a-fywz-zjjy-twyl-10a-mbyr-250v-fwlt-mqs-t6x30-mlm-6249
+P-channel MOSFET (IRF9540),0.38,1,RAM Electronics,https://www.ram-e-shop.com/ar/shop/irf9540-irf9540n-p-channel-mosfet-5971
+TFT LCD Display 2.8 SPI,7.11,1,RAM Electronics,https://www.ram-e-shop.com/ar/shop/kit-lcd-tft-2-8-touch-lcd-tft-2-8-inch-touch-display-for-arduino-uno-mega2560-8003
+220 ohm resistor,0.01,1,RAM Electronics,https://mostelectronic.com/shop/components/resistor-220-ohm/
+1000uF capacitor,0.09,1,RAM Electronics,https://mostelectronic.com/shop/components/capacitors/radial-electrolytic-capacitors/electrolytic-capacitor-1000uf-16v/
+0.1uF capacitor,0.09,1,RAM Electronics,https://mostelectronic.com/shop/components/electrolytic-capacitor-0-1uf-50v/
+PAM8403 Bluetooth amplifier,2.79,1,RAM Electronics,https://www.ram-e-shop.com/ar/shop/kit-amp-a158-2pam8403-5w-xh-a158-pam8403-bluetooth-dual-mini-5v-digital-audio-amplifier-board-2x5w-9239
+Speaker glue,11.74,1,Amazon,https://www.amazon.com/s?k=speaker+adhesive
+4 ohm 3W speakers,2.08,2,Amazon Egypt,https://www.amazon.eg/dp/B0FY4R1Z35
+Polyfuse RXEF110,0.07,3,Maker Electronics,https://makerselectronics.com/product/rxef110-ptc-fuse-72v-1-1a/
+USB breakout module,5.96,1,Amazon,https://www.amazon.com/dp/B09WQHPXH6
+1N5819 diode,0.20,1,FUT Electronics,https://store.fut-electronics.com/products/shcottcky-diode-1n5819
+ESP32 (38 pins),6.73,1,RAM Electronics,https://www.ram-e-shop.com/ar/shop/kit-esp32-esp32s-38pin-esp-32s-38pin-development-board-wifi-bluetooth-with-new-cp2102-chip-9279
+LED,0.20,1,RAM Electronics,
+20 AWG copper wire,1.90,1 meter,Local,
+Plug-in wire,2.30,,Local,
+Jumper wires,0.77,,RAM Electronics,https://www.ram-e-shop.com/ar/shop/ph60-mf-20cm-ph60-20cm-male-to-female-40-jumper-wires-set-7066
+PCB fabrication,5.00,1,JLCPCB,
+3D design,,,,
