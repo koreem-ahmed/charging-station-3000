@@ -2,8 +2,9 @@
 ## Description
 This is a customed charging station which combine both funcitionablity and customed design. I personally made this project for charging my controllers while holding them in a section of my disk i also made sure to put all the games i love int he design and make the design like a customed thing to hold memories while charging my head set. i was a beginner in the 3D world but i learned a lot from onshape toturials and also i made huge project like this.
 <hr>
+## Why it was biult
 It is more like a functionable stand which charges the controller and head sets and also could hold my phone for me on my disk. I made a custom speakers with a PAM8403 Bluetooth Dual chip to help me connect my phone to the charging station and lestin to my favorate music. also i made a custome place for TFT Screen which displays a animated valorant agents or a parts of my favorate game. Also, i made every thing to be compatible with diffrent technieches rather than skewers also it gets its power from a plugin and a power supply which power it by 5V and 10amp.
-<hr>
+## how to use it
 I made it cause i wanted to make a good stand and a chargin station for my controllers since i forget to charge them all the time as well as my head set and i needed something to fill my desk with and shows my love for a certain games i played and holds memory for this event (fallout). Also i didn't have speackers so i made a simple one and i want something to display animation on which was the TFT in this project.
 I will usually uses it for holding and charging the controllers and my head set. Also, i will use it as a speacker and a displaying screen.
 
