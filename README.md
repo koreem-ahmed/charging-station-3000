@@ -10,7 +10,7 @@ I will usually uses it for holding and charging the controllers and my head set.
 ## How to use it / Build it
 First of all fabricate the PCB and soleder the components then upload the code from the frimware file to the ESP32 you are using and then you should make the circiut works by using the power from the power supply you bought and connect it to were i added the silkscreen of the power source in the pcb. <br><br>
 Then add the plug in and the sockets for the USB - A module and open the switch and try charging your controllers or you headset. It should work if it didn't use a multimeter to see what did you do wrong. <br><br>
-It if worked you should now 3D print all the component and assemble the stand first to make it one long stand then assimple the base by glueing the pcb and the modules and the tft and the speackers to there place in the 3D design by usign the T-7000 Upgrde Glue, then add the lids of the base to it and check if it is fully inserted then put the stand you made with the x in the base and assimble them together. Now get the lid of the stand and connect it to the stand and apply glue to ensure it is stuck and dont come out and same for controllers stands after that you should apply glue for every thing and glue the led to the stand. and then open the switch again and test if it is working.
+If it worked you should now 3D print all the component and assemble the stand first to make it one long stand then assimple the base by glueing the pcb and the modules and the tft and the speackers to there place in the 3D design by usign the T-7000 Upgrde Glue, then add the lids of the base to it and check if it is fully inserted then put the stand you made with the x in the base and assimble them together. Now get the lid of the stand and connect it to the stand and apply glue to ensure it is stuck and dont come out and same for controllers stands after that you should apply glue for every thing and glue the led to the stand. and then open the switch again and test if it is working.
 
 
 ## CAD
@@ -28,10 +28,11 @@ I made a cutom PCB after searching for the components and knew that i need one f
 ### Schematic
 I made the connections of the sound system, TFT, ESP32, and the charging modules
 <br>
-<img width="1065" height="460" alt="image" src="https://github.com/user-attachments/assets/65a8a536-f663-4dd0-85d3-5a3c87a46a89" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/fa99c834-d95f-4221-8346-c3a81acba472" />
 
 ### PCB
-<img width="730" height="850" alt="image" src="https://github.com/user-attachments/assets/ca633f19-1f66-4ddb-97b6-a8aeb38e7bd3" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9bc57dba-73cc-4abf-9716-1d293787553d" />
 
-## Poster
+
+## magazine
 <img width="545" height="835" alt="Charging station 3000" src="https://github.com/user-attachments/assets/1726184e-55d8-4ada-b834-68e8f75cd25a" />
