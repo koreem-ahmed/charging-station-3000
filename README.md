@@ -8,8 +8,8 @@ It is a functionable stand which charges (type - c/micro) the controller and hea
 I will usually uses it for holding and charging the controllers and my head set. Also, i will use it as a speacker and a displaying screen.
 
 ## How to use it / Build it
-First of all fabricate the PCB and soleder the components then upload the code from the frimware file to the ESP32 you are using and then you should make the circiut works by using the power from the power supply you bought and connect it to were i added the silkscreen of the power source in the pcb. <br>
-Then add the plug in and the sockets for the USB - A module and open the switch and try charging your controllers or you headset. It should work if it didn't use a multimeter to see what did you do wrong. <br>
+First of all fabricate the PCB and soleder the components then upload the code from the frimware file to the ESP32 you are using and then you should make the circiut works by using the power from the power supply you bought and connect it to were i added the silkscreen of the power source in the pcb. <br><br>
+Then add the plug in and the sockets for the USB - A module and open the switch and try charging your controllers or you headset. It should work if it didn't use a multimeter to see what did you do wrong. <br><br>
 It if worked you should now 3D print all the component and assemble the stand first to make it one long stand then assimple the base by glueing the pcb and the modules and the tft and the speackers to there place in the 3D design by usign the T-7000 Upgrde Glue, then add the lids of the base to it and check if it is fully inserted then put the stand you made with the x in the base and assimble them together. Now get the lid of the stand and connect it to the stand and apply glue to ensure it is stuck and dont come out and same for controllers stands after that you should apply glue for every thing and glue the led to the stand. and then open the switch again and test if it is working.
 
 
